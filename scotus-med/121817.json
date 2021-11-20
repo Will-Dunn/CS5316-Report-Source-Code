@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121817/",
+  "id": 121817,
+  "absolute_url": "/opinion/121817/cook-county-illinois-v-united-states-ex-rel-chandler/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121817/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:32Z",
+  "date_modified": "2017-03-24T06:13:28.189306Z",
+  "type": "010combined",
+  "sha1": "734fc1a9d54fe3ac2ce3c65454a8e84ec4419ea0",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.956.01-1572.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 956</p>\n    <p class=\"parties\">COOK COUNTY, ILLINOIS<br><i>v.</i><br>UNITED STATES EX REL. CHANDLER.</p>\n    <p class=\"docket\">No. 01-1572.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari granted. Reported below: 277 F. 3d 969.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">956</span></span></p>\n    <p class=\"parties\">COOK COUNTY, ILLINOIS<br><i>v.</i><br>UNITED STATES EX REL. CHANDLER.</p>\n    <p class=\"docket\">No. 01-1572.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari granted. Reported below: <span class=\"citation\" data-id=\"776251\"><a href=\"/opinion/776251/united-states-of-america-ex-rel-janet-chandler-phd-cross-appellee-v/\"><span class=\"volume\">277</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">969</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/776251/"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121217/",
+  "id": 121217,
+  "absolute_url": "/opinion/121217/hutchins-v-wilentz-goldman-spitzer/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121217/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:21Z",
+  "date_modified": "2017-03-24T06:13:13.435595Z",
+  "type": "010combined",
+  "sha1": "596c1ffd65a2f14cb5b9de184404abf10d5260ba",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.906.01-1529.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 906</p>\n    <p class=\"parties\">HUTCHINS<br><i>v.</i><br>WILENTZ, GOLDMAN &amp; SPITZER ET AL.</p>\n    <p class=\"docket\">No. 01-1529.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 253 F. 3d 176.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">906</span></span></p>\n    <p class=\"parties\">HUTCHINS<br><i>v.</i><br>WILENTZ, GOLDMAN &amp; SPITZER ET AL.</p>\n    <p class=\"docket\">No. 01-1529.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"773611\"><a href=\"/opinion/773611/charles-t-hutchins-v-wilentz-goldman-spitzer-louis-delucia-john-does/\"><span class=\"volume\">253</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">176</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/773611/"
+  ]
+}

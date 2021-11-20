@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/131419/",
+  "id": 131419,
+  "absolute_url": "/opinion/131419/sheppard-v-beerman-justice-supreme-court-of-new-york/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/131419/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:27:32Z",
+  "date_modified": "2017-03-24T06:21:02.511548Z",
+  "type": "010combined",
+  "sha1": "0c4f85015e69fa843dc8505ade087290f0a93809",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.822.02-1798.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">540 U.S. 822</p>\n    <p class=\"parties\">SHEPPARD<br>v.<br>BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK.</p>\n    <p class=\"docket\">No. 02-1798.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 2d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 317 F.3d 351.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">822</span></span></p>\n    <p class=\"parties\">SHEPPARD<br>v.<br>BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK.</p>\n    <p class=\"docket\">No. 02-1798.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 2d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: <span class=\"citation\" data-id=\"780603\"><a href=\"/opinion/780603/brian-sheppard-v-leon-beerman-as-an-individual-and-in-his-official/\"><span class=\"volume\">317</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">351</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/780603/"
+  ]
+}

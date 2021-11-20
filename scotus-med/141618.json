@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/141618/",
+  "id": 141618,
+  "absolute_url": "/opinion/141618/norman-v-united-states/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/141618/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:33:47Z",
+  "date_modified": "2017-03-24T06:26:50.307012Z",
+  "type": "010combined",
+  "sha1": "ecb66b292be190bfc698bf9676fd0f997257227f",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1099.03-10813.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">543 U.S. 1099</p>\n    <p class=\"parties\">NORMAN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-10813.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 24, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 8th Cir. Reported below: 354 F. 3d 969; Motions of petitioners for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>United States</i> v. <i>Booker, ante,</i> p. 220.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1099</span></span></p>\n    <p class=\"parties\">NORMAN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-10813.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 24, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 8th Cir. Reported below: <span class=\"citation\" data-id=\"784729\"><a href=\"/opinion/784729/united-states-v-pelayo-jose-cuervo-also-known-as-jose-cuervo-also-known/\"><span class=\"volume\">354</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">969</span></a></span>; Motions of petitioners for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>United States</i> v. <i>Booker, ante,</i> p. 220.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/784729/"
+  ]
+}

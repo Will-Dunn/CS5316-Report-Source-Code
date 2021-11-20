@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/1615134/",
+  "id": 1615134,
+  "absolute_url": "/opinion/1615134/ex-parte-roberts/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/1615134/",
+  "author": "https://www.courtlistener.com/api/rest/v3/people/2051/",
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:56:29.320768Z",
+  "date_modified": "2017-04-06T12:07:54.084156Z",
+  "type": "010combined",
+  "sha1": "dcc7927af2512970db44c8df8726ed0e413d9dfc",
+  "page_count": null,
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>31 U.S. 216 (____)</b></center>\n<center><b>6 Pet. 216</b></center>\n<center><h1>EX PARTE JOSEPH ROBERTS, AND<br>\nEX PARTE GEORGE ADSHEAD.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*217</span> The motion for a mandamus was argued in writing by Mr Beardsley, as counsel for the claimants.</p>\n<p>Mr Chief Justice MARSHALL delivered the opinion of the Court.</p>\n<p>The court is of opinion that the present is not a proper case for the interposition of this court, by way of mandamus. The application to set aside the default and inquest, was an application to the discretion of the district court; and is not distinguishable in principle from applications to grant new trials. This court has always considered such applications as resting in the sound discretion of the court where the cause is depending, and not a matter for a mandamus or writ of error.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">31</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">216</span></span> (____)</b></center>\n<center><b><span class=\"citation\" data-id=\"85776\"><a href=\"/opinion/85776/ex-parte-joseph-roberts-and-ex-parte-george-adshead/\"><span class=\"volume\">6</span> <span class=\"reporter\">Pet.</span> <span class=\"page\">216</span></a></span></b></center>\n<center><h1>EX PARTE JOSEPH ROBERTS, AND<br>\nEX PARTE GEORGE ADSHEAD.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*217</span> The motion for a mandamus was argued in writing by Mr Beardsley, as counsel for the claimants.</p>\n<p>Mr Chief Justice MARSHALL delivered the opinion of the Court.</p>\n<p>The court is of opinion that the present is not a proper case for the interposition of this court, by way of mandamus. The application to set aside the default and inquest, was an application to the discretion of the district court; and is not distinguishable in principle from applications to grant new trials. This court has always considered such applications as resting in the sound discretion of the court where the cause is depending, and not a matter for a mandamus or writ of error.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/85776/"
+  ]
+}

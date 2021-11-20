@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/131314/",
+  "id": 131314,
+  "absolute_url": "/opinion/131314/courtney-v-smith/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/131314/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:27:30Z",
+  "date_modified": "2017-03-24T06:21:00.415941Z",
+  "type": "010combined",
+  "sha1": "b539b9beb36c16c0142591734318567bd42bf56e",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.814.02-1626.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">540 U.S. 814</p>\n    <p class=\"parties\">COURTNEY ET AL.<br>v.<br>SMITH ET AL.</p>\n    <p class=\"docket\">No. 02-1626.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 6th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 297 F. 3d 455.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">814</span></span></p>\n    <p class=\"parties\">COURTNEY ET AL.<br>v.<br>SMITH ET AL.</p>\n    <p class=\"docket\">No. 02-1626.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 6th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: <span class=\"citation\" data-id=\"778431\"><a href=\"/opinion/778431/john-m-courtney-larry-e-troutman-and-malcolm-a-webster-v-david-r/\"><span class=\"volume\">297</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">455</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/778431/"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/111817/",
+  "id": 111817,
+  "absolute_url": "/opinion/111817/ferris-kleem-and-tony-kleem-v-immigration-and-naturalization-service-no/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/111817/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:13:24Z",
+  "date_modified": "2017-03-24T05:43:29.911674Z",
+  "type": "010combined",
+  "sha1": "4fde135c8502e85300c477751399d0aa2f7a5bd4",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/479/479.US.1308.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">479 U.S. 1308</p>\n    <p class=\"case_cite\">107 S.Ct. 484</p>\n    <p class=\"case_cite\">93 L.Ed.2d 566</p>\n    <p class=\"parties\">Ferris KLEEM and Tony Kleem<br>v.<br>IMMIGRATION AND NATURALIZATION SERVICE.<br>No. A-416.</p>\n    <p class=\"date\">Dec. 4, 1986.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Justice SCALIA, Circuit Justice.</p>\n      <p class=\"indent\">Counsel for applicants has asked for a 60-day extension of time in which to file a petition for a writ of certiorari to the Court of Appeals for the Sixth Circuit.  The stated reason for the request is that the case presents \"important questions under the Constitution of the United States which were determined adversely to the petitioner by the court below,\" and counsel desires \"additional time to research and prepare the Writ of Certiorari.\"</p>\n      <p class=\"indent\">Writs of certiorari in civil cases \"shall be . . . applied for within ninety days\" after entry of the subject judgment, 28 U.S.C. &#167; 2101(c), which period may be extended by a Justice of this Court (up to an additional 60 days) \"for good cause shown,\" <i>ibid.</i>  Under this Court's Rule 20.6, requests for extensions of time \"are not favored.\"  In this case, counsel has given no reason for his request other than his desire for additional time to research constitutional issues.  The same reason could be adduced in virtually all cases.  It does not meet the standard of \"good cause shown\" for the granting of a disfavored extension.  Pursuant to the Rules of this Court, the application for extension is</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">\n        <i>Denied.</i>\n      </p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">479</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1308</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation\" data-id=\"111777\"><a href=\"/opinion/111777/cargill-inc-v-monfort-of-colo-inc/\"><span class=\"volume\">107</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">484</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">93</span> <span class=\"reporter\">L. Ed. 2d</span> <span class=\"page\">566</span></span></p>\n    <p class=\"parties\">Ferris KLEEM and Tony Kleem<br>v.<br>IMMIGRATION AND NATURALIZATION SERVICE.<br>No. A-416.</p>\n    <p class=\"date\">Dec. 4, 1986.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Justice SCALIA, Circuit Justice.</p>\n      <p class=\"indent\">Counsel for applicants has asked for a 60-day extension of time in which to file a petition for a writ of certiorari to the Court of Appeals for the Sixth Circuit.  The stated reason for the request is that the case presents \"important questions under the Constitution of the United States which were determined adversely to the petitioner by the court below,\" and counsel desires \"additional time to research and prepare the Writ of Certiorari.\"</p>\n      <p class=\"indent\">Writs of certiorari in civil cases \"shall be . . . applied for within ninety days\" after entry of the subject judgment, 28 U.S.C. &#167; 2101(c), which period may be extended by a Justice of this Court (up to an additional 60 days) \"for good cause shown,\" <i>ibid.</i>  Under this Court's Rule 20.6, requests for extensions of time \"are not favored.\"  In this case, counsel has given no reason for his request other than his desire for additional time to research constitutional issues.  The same reason could be adduced in virtually all cases.  It does not meet the standard of \"good cause shown\" for the granting of a disfavored extension.  Pursuant to the Rules of this Court, the application for extension is</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">\n        <i>Denied.</i>\n      </p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/111777/"
+  ]
+}

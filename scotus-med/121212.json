@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121212/",
+  "id": 121212,
+  "absolute_url": "/opinion/121212/national-electrical-manufacturers-assn-v-sorrell-attorney-general-of/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121212/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:21Z",
+  "date_modified": "2017-03-24T06:13:13.385040Z",
+  "type": "010combined",
+  "sha1": "53ef1784bf66529d9b6c64413c8aed248a8e29b0",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.905.01-1489.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 905</p>\n    <p class=\"parties\">NATIONAL ELECTRICAL MANUFACTURERS ASSN.<br><i>v.</i><br>SORRELL, ATTORNEY GENERAL OF VERMONT, ET AL.</p>\n    <p class=\"docket\">No. 01-1489.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied. Reported below: 272 F. 3d 104.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">905</span></span></p>\n    <p class=\"parties\">NATIONAL ELECTRICAL MANUFACTURERS ASSN.<br><i>v.</i><br>SORRELL, ATTORNEY GENERAL OF VERMONT, ET AL.</p>\n    <p class=\"docket\">No. 01-1489.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"775625\"><a href=\"/opinion/775625/national-electrical-manufacturers-association-v-william-h-sorrell/\"><span class=\"volume\">272</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">104</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/775625/"
+  ]
+}

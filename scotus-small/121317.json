@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121317/",
+  "id": 121317,
+  "absolute_url": "/opinion/121317/garcia-rodriguez-v-united-states/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121317/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:23Z",
+  "date_modified": "2017-03-24T06:13:15.560486Z",
+  "type": "010combined",
+  "sha1": "c33c4be23b9c6b5c27e93432479be32017b7b5d7",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.913.01-10090.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 913</p>\n    <p class=\"parties\">GARCIA RODRIGUEZ<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 01-10090.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 278 F. 3d 486.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">913</span></span></p>\n    <p class=\"parties\">GARCIA RODRIGUEZ<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 01-10090.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"26081\"><a href=\"/opinion/26081/united-states-v-rodriguez/\"><span class=\"volume\">278</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">486</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/26081/"
+  ]
+}

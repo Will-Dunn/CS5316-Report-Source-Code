@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121411/",
+  "id": 121411,
+  "absolute_url": "/opinion/121411/seitz-v-speagle-et-ux/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121411/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:26Z",
+  "date_modified": "2017-03-24T06:13:19.612684Z",
+  "type": "010combined",
+  "sha1": "7d89f37327bfb1d254d484aa076572fa8dd87278",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.923.01-1509.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 923</p>\n    <p class=\"parties\">SEITZ<br><i>v.</i><br>SPEAGLE ET UX.</p>\n    <p class=\"docket\">No. 01-1509.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 17, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. N. C. Certiorari denied. Reported below: 354 N. C. 525, 557 S. E. 2d 83.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">923</span></span></p>\n    <p class=\"parties\">SEITZ<br><i>v.</i><br>SPEAGLE ET UX.</p>\n    <p class=\"docket\">No. 01-1509.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 17, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. N. C. Certiorari denied. Reported below: 354 N. C. 525, <span class=\"citation\" data-id=\"1365653\"><a href=\"/opinion/1365653/speagle-v-seitz/\"><span class=\"volume\">557</span> <span class=\"reporter\">S.E.2d</span> <span class=\"page\">83</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1365653/"
+  ]
+}

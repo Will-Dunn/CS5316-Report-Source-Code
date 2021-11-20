@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/141012/",
+  "id": 141012,
+  "absolute_url": "/opinion/141012/anderson-v-international-union-united-plant-guard-workers-of-america/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/141012/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:33:21Z",
+  "date_modified": "2017-03-24T06:26:35.526150Z",
+  "type": "010combined",
+  "sha1": "3889b9affe6f18e210290d83ff92550d56b4b745",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1056.04-756.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">543 U.S. 1056</p>\n    <p class=\"parties\">ANDERSON ET AL.<br>v.<br>INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL.</p>\n    <p class=\"docket\">No. 04-756.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 6th Cir. Certiorari denied. Reported below: 370 F. 3d 542.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1056</span></span></p>\n    <p class=\"parties\">ANDERSON ET AL.<br>v.<br>INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL.</p>\n    <p class=\"docket\">No. 04-756.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 6th Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"786421\"><a href=\"/opinion/786421/gary-anderson-louis-scohy-and-george-squier-v-the-international-union/\"><span class=\"volume\">370</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">542</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/786421/"
+  ]
+}

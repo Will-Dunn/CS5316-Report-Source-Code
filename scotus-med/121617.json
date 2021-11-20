@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121617/",
+  "id": 121617,
+  "absolute_url": "/opinion/121617/linneen-et-ux-v-gila-river-indian-community/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121617/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:29Z",
+  "date_modified": "2017-03-24T06:13:23.959104Z",
+  "type": "010combined",
+  "sha1": "d0299e182c431fa034b0c79fdd51ad4a2c61a427",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.939.01-1462.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 939</p>\n    <p class=\"parties\">LINNEEN ET UX.<br><i>v.</i><br>GILA RIVER INDIAN COMMUNITY.</p>\n    <p class=\"docket\">No. 01-1462.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 24, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 276 F. 3d 489.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">939</span></span></p>\n    <p class=\"parties\">LINNEEN ET UX.<br><i>v.</i><br>GILA RIVER INDIAN COMMUNITY.</p>\n    <p class=\"docket\">No. 01-1462.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 24, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"776110\"><a href=\"/opinion/776110/ross-b-linneen-husband-kim-ann-linneen-wife-v-gila-river-indian/\"><span class=\"volume\">276</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">489</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/776110/"
+  ]
+}

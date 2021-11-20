@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121014/",
+  "id": 121014,
+  "absolute_url": "/opinion/121014/mcmasters-v-united-states/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121014/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:17Z",
+  "date_modified": "2017-03-24T06:12:39.880396Z",
+  "type": "010combined",
+  "sha1": "7c646f887cccefb483677ce619e840ffa7f598eb",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1112.01-1283.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">535 U.S. 1112</p>\n    <p class=\"parties\">McMASTERS<br><i>v.</i><br>UNITED STATES ET AL.</p>\n    <p class=\"docket\">No. 01-1283.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 3, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 260 F. 3d 814.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1112</span></span></p>\n    <p class=\"parties\">McMASTERS<br><i>v.</i><br>UNITED STATES ET AL.</p>\n    <p class=\"docket\">No. 01-1283.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 3, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"774433\"><a href=\"/opinion/774433/debra-mcmasters-v-united-states-of-america-and-the-department-of-the-navy/\"><span class=\"volume\">260</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">814</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/774433/"
+  ]
+}

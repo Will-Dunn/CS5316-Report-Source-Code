@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121915/",
+  "id": 121915,
+  "absolute_url": "/opinion/121915/card-v-florida/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121915/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:33Z",
+  "date_modified": "2017-03-24T06:13:30.317949Z",
+  "type": "010combined",
+  "sha1": "9f3b41f18a94561e1c4e25972549b7344d3aa338",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.963.01-9152.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 963</p>\n    <p class=\"parties\">CARD<br><i>v.</i><br>FLORIDA.</p>\n    <p class=\"docket\">No. 01-9152.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Fla. Certiorari denied. Reported below: 803 So. 2d 613.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">963</span></span></p>\n    <p class=\"parties\">CARD<br><i>v.</i><br>FLORIDA.</p>\n    <p class=\"docket\">No. 01-9152.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Fla. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1959936\"><a href=\"/opinion/1959936/card-v-state/\"><span class=\"volume\">803</span> <span class=\"reporter\">So. 2d</span> <span class=\"page\">613</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1959936/"
+  ]
+}

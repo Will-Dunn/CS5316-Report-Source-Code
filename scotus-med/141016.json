@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/141016/",
+  "id": 141016,
+  "absolute_url": "/opinion/141016/perkins-v-united-states/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/141016/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:33:21Z",
+  "date_modified": "2017-03-24T06:26:35.577655Z",
+  "type": "010combined",
+  "sha1": "d1e6ef588df54a3acfe86cab9586b00d3be5ca00",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1056.04-5795.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">543 U.S. 1056</p>\n    <p class=\"parties\">PERKINS<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-5795.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 363 F. 3d 317.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1056</span></span></p>\n    <p class=\"parties\">PERKINS<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-5795.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"785670\"><a href=\"/opinion/785670/united-states-v-john-michael-perkins/\"><span class=\"volume\">363</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">317</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/785670/"
+  ]
+}

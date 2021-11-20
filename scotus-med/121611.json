@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121611/",
+  "id": 121611,
+  "absolute_url": "/opinion/121611/fin-control-systems-pty-ltd-v-surfco-hawaii/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121611/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:29Z",
+  "date_modified": "2017-03-24T06:13:23.863773Z",
+  "type": "010combined",
+  "sha1": "39722384881a8e9e9f4594a7a75ba781a4bb8424",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.939.01-863.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 939</p>\n    <p class=\"parties\">FIN CONTROL SYSTEMS PTY., LTD.<br><i>v.</i><br>SURFCO HAWAII.</p>\n    <p class=\"docket\">No. 01-863.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 24, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 264 F. 3d 1062.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">939</span></span></p>\n    <p class=\"parties\">FIN CONTROL SYSTEMS PTY., LTD.<br><i>v.</i><br>SURFCO HAWAII.</p>\n    <p class=\"docket\">No. 01-863.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 24, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"774856\"><a href=\"/opinion/774856/surfco-hawaii-v-fin-control-systems-pty-limited/\"><span class=\"volume\">264</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1062</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/774856/"
+  ]
+}

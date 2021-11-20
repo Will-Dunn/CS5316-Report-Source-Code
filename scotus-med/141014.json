@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/141014/",
+  "id": 141014,
+  "absolute_url": "/opinion/141014/sifrit-v-maryland/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/141014/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:33:21Z",
+  "date_modified": "2017-03-24T06:26:35.684309Z",
+  "type": "010combined",
+  "sha1": "b4f8c4e70570d542b2748c809d8c8dcdb6e9c989",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1056.04-709.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">543 U.S. 1056</p>\n    <p class=\"parties\">SIFRIT<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 04-709.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Md. Certiorari denied. Reported below: 383 Md. 77, 857 A. 2d 65.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1056</span></span></p>\n    <p class=\"parties\">SIFRIT<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 04-709.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Md. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2349698\"><a href=\"/opinion/2349698/e-sifrit-v-state/\"><span class=\"volume\">383</span> <span class=\"reporter\">Md.</span> <span class=\"page\">77</span></a></span>, <span class=\"citation\" data-id=\"2349698\"><a href=\"/opinion/2349698/e-sifrit-v-state/\"><span class=\"volume\">857</span> <span class=\"reporter\">A.2d</span> <span class=\"page\">65</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/2349698/"
+  ]
+}

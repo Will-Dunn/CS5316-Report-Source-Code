@@ -1,0 +1,26 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/121812/",
+  "id": 121812,
+  "absolute_url": "/opinion/121812/pharmaceutical-research-and-manufacturers-of-america-v-concannon/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/121812/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:21:32Z",
+  "date_modified": "2017-03-24T06:13:28.135099Z",
+  "type": "010combined",
+  "sha1": "88f2ee6eab9fce3999c2ee51f71083c94b421831",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.956.01-188.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">536 U.S. 956</p>\n    <p class=\"parties\">PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA<br><i>v.</i><br>CONCANNON, COMMISSIONER, MAINE DEPARTMENT OF HUMAN SERVICES, ET AL.</p>\n    <p class=\"docket\">No. 01-188.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 1st Cir. Certiorari granted. Reported below: 249 F. 3d 66.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">956</span></span></p>\n    <p class=\"parties\">PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA<br><i>v.</i><br>CONCANNON, COMMISSIONER, MAINE DEPARTMENT OF HUMAN SERVICES, ET AL.</p>\n    <p class=\"docket\">No. 01-188.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 1st Cir. Certiorari granted. Reported below: <span class=\"citation\" data-id=\"199407\"><a href=\"/opinion/199407/pharmaceutical-resea-v-commissioner-maine/\"><span class=\"volume\">249</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">66</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/199407/"
+  ]
+}
